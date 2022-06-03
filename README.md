@@ -32,4 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving problems is the BASIS for coding well!](https://phillcode.io/solving-problems-is-the-basis-for-coding-well)
+- [Create reusable React components](https://phillcode.io/create-reusable-react-components)
+- [Better data validation with Guard Clauses](https://phillcode.io/better-data-validation-with-guard-clauses)
+- [How to achieve data consistency with TypeScript](https://phillcode.io/how-to-achieve-data-consistency-with-typescript)
+- [Custom AWS Lambda Authorizer in Serverless Stack](https://phillcode.io/custom-aws-lambda-authorizer-in-serverless-stack)
 <!-- BLOG-POST-LIST:END -->
