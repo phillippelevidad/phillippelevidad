@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me:
 
-12+ years as Software Engineer and Solutions Architect, I also have a strong experience in Leadership, Product Development and Project Management. Interested in: software architecture and development, excelent communication, people, personal development, playing guitar and travelling :)
+15 years as Software Engineer and Solutions Architect, I also have a strong experience in Leadership, Product Development and Project Management. Interested in: software architecture and development, excelent communication, people, personal development, playing guitar and travelling :)
 
 ---
 
