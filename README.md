@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [NodeJS Console App with ES6 - Starter Project](https://phillcode.io/nodejs-console-app-with-es6-starter-project)
 - [Enums should always be singular](https://phillcode.io/enums-should-always-be-singular)
 - [Solving problems is the BASIS for coding well!](https://phillcode.io/solving-problems-is-the-basis-for-coding-well)
 - [Create reusable React components](https://phillcode.io/create-reusable-react-components)
 - [Better data validation with Guard Clauses](https://phillcode.io/better-data-validation-with-guard-clauses)
-- [How to achieve data consistency with TypeScript](https://phillcode.io/how-to-achieve-data-consistency-with-typescript)
 <!-- BLOG-POST-LIST:END -->
