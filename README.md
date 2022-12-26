@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Use React-like hooks in your ExpressJS apps](https://phillcode.io/use-react-like-hooks-in-your-expressjs-apps)
 - [NodeJS Console App with TypeScript, linting and testing](https://phillcode.io/nodejs-console-app-with-typescript-linting-and-testing)
 - [Leadership vs Management. Do you know the difference?](https://phillcode.io/leadership-vs-management-do-you-know-the-difference)
 - [NodeJS Console App with ES6 - Starter Project](https://phillcode.io/nodejs-console-app-with-es6-starter-project)
 - [Enums should always be singular](https://phillcode.io/enums-should-always-be-singular)
-- [Solving problems is the BASIS for coding well!](https://phillcode.io/solving-problems-is-the-basis-for-coding-well)
 <!-- BLOG-POST-LIST:END -->
