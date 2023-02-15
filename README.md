@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Essential Topics to Study Before Working with Server-Side Integrations in React and Redux Toolkit](https://phillcode.io/5-essential-topics-to-study-before-working-with-server-side-integrations-in-react-and-redux-toolkit)
 - [Mastering OOP with TypeScript: An In-Depth Look at Encapsulation](https://phillcode.io/mastering-oop-with-typescript-an-in-depth-look-at-encapsulation)
 - [Use React-like hooks in your ExpressJS apps](https://phillcode.io/use-react-like-hooks-in-your-expressjs-apps)
 - [NodeJS Console App with TypeScript, linting and testing](https://phillcode.io/nodejs-console-app-with-typescript-linting-and-testing)
 - [Leadership vs Management. Do you know the difference?](https://phillcode.io/leadership-vs-management-do-you-know-the-difference)
-- [NodeJS Console App with ES6 - Starter Project](https://phillcode.io/nodejs-console-app-with-es6-starter-project)
 <!-- BLOG-POST-LIST:END -->
