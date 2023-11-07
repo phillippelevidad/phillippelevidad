@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Test-Driven Development in JavaScript: the RPG Combat Kata](https://phillcode.io/test-driven-development-javascript)
 - [Mastering Jest Config for your JavaScript projects](https://phillcode.io/jest-config)
 - [Are Design Patterns still relevant?](https://phillcode.io/are-design-patterns-still-relevant)
 - [Comparing C# and Node.js: Performance, Scalability and Use Cases](https://phillcode.io/comparing-csharp-and-nodejs-performance-scalability-and-use-cases)
 - [The Ultimate Guide to Default Values in JavaScript: || and ?? Operators Explained](https://phillcode.io/the-ultimate-guide-to-default-values-in-javascript-and-operators-explained)
-- [5 Essential Topics to Study Before Working with Server-Side Integrations in React and Redux Toolkit](https://phillcode.io/5-essential-topics-to-study-before-working-with-server-side-integrations-in-react-and-redux-toolkit)
 <!-- BLOG-POST-LIST:END -->
