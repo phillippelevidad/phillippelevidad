@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Jest Config for your JavaScript projects](https://phillcode.io/jest-config)
 - [Are Design Patterns still relevant?](https://phillcode.io/are-design-patterns-still-relevant)
 - [Comparing C# and Node.js: Performance, Scalability and Use Cases](https://phillcode.io/comparing-csharp-and-nodejs-performance-scalability-and-use-cases)
 - [The Ultimate Guide to Default Values in JavaScript: || and ?? Operators Explained](https://phillcode.io/the-ultimate-guide-to-default-values-in-javascript-and-operators-explained)
 - [5 Essential Topics to Study Before Working with Server-Side Integrations in React and Redux Toolkit](https://phillcode.io/5-essential-topics-to-study-before-working-with-server-side-integrations-in-react-and-redux-toolkit)
-- [Mastering OOP with TypeScript: An In-Depth Look at Encapsulation](https://phillcode.io/mastering-oop-with-typescript-an-in-depth-look-at-encapsulation)
 <!-- BLOG-POST-LIST:END -->
