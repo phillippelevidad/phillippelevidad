@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript unit tests with the RPG Combat Kata - Iteration Three](https://phillcode.io/javascript-unit-tests)
 - [Advancing with Iteration Two: Test-Driven Development in JavaScript](https://phillcode.io/tdd-javascript)
 - [Test-Driven Development in JavaScript: the RPG Combat Kata](https://phillcode.io/test-driven-development-javascript)
 - [Mastering Jest Config for your JavaScript projects](https://phillcode.io/jest-config)
 - [Are Design Patterns still relevant?](https://phillcode.io/are-design-patterns-still-relevant)
-- [Comparing C# and Node.js: Performance, Scalability and Use Cases](https://phillcode.io/comparing-csharp-and-nodejs-performance-scalability-and-use-cases)
 <!-- BLOG-POST-LIST:END -->
