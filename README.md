@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Node.js Hacks: Boost Your Development Skillset](https://phillcode.io/advanced-nodejs)
 - [Mastering JavaScript unit tests with the RPG Combat Kata - Iteration Three](https://phillcode.io/javascript-unit-tests)
 - [Advancing with Iteration Two: Test-Driven Development in JavaScript](https://phillcode.io/tdd-javascript)
 - [Test-Driven Development in JavaScript: the RPG Combat Kata](https://phillcode.io/test-driven-development-javascript)
 - [Mastering Jest Config for your JavaScript projects](https://phillcode.io/jest-config)
-- [Are Design Patterns still relevant?](https://phillcode.io/are-design-patterns-still-relevant)
 <!-- BLOG-POST-LIST:END -->
