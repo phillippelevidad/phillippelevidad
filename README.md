@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js Streams for Efficient Data Processing At Scale](https://phillcode.io/nodejs-stream)
 - [Advanced Node.js Hacks: Boost Your Development Skillset](https://phillcode.io/advanced-nodejs)
 - [Mastering JavaScript unit tests with the RPG Combat Kata - Iteration Three](https://phillcode.io/javascript-unit-tests)
 - [Advancing with Iteration Two: Test-Driven Development in JavaScript](https://phillcode.io/tdd-javascript)
 - [Test-Driven Development in JavaScript: the RPG Combat Kata](https://phillcode.io/test-driven-development-javascript)
-- [Mastering Jest Config for your JavaScript projects](https://phillcode.io/jest-config)
 <!-- BLOG-POST-LIST:END -->
