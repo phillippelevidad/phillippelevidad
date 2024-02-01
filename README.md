@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript delete: How to Remove Properties from Objects](https://phillcode.io/javascript-delete)
-- [Node.js Streams for Efficient Data Processing At Scale](https://phillcode.io/nodejs-stream)
-- [Advanced Node.js Hacks: Boost Your Development Skillset](https://phillcode.io/advanced-nodejs)
-- [Mastering JavaScript unit tests with the RPG Combat Kata - Iteration Three](https://phillcode.io/javascript-unit-tests)
-- [Advancing with Iteration Two: Test-Driven Development in JavaScript](https://phillcode.io/tdd-javascript)
+- [JavaScript delete: How to Remove Properties from Objects](https://phillcode.hashnode.dev/javascript-delete)
+- [Node.js Streams for Efficient Data Processing At Scale](https://phillcode.hashnode.dev/nodejs-stream)
+- [Advanced Node.js Hacks: Boost Your Development Skillset](https://phillcode.hashnode.dev/advanced-nodejs)
+- [Mastering JavaScript unit tests with the RPG Combat Kata - Iteration Three](https://phillcode.hashnode.dev/javascript-unit-tests)
+- [Advancing with Iteration Two: Test-Driven Development in JavaScript](https://phillcode.hashnode.dev/tdd-javascript)
 <!-- BLOG-POST-LIST:END -->
