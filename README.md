@@ -32,9 +32,9 @@
 ### ✍️ Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI and the Age of Summaries](https://phillcode.hashnode.dev/generative-ai-and-the-age-of-summaries)
 - [JavaScript delete: How to Remove Properties from Objects](https://phillcode.hashnode.dev/javascript-delete)
 - [Node.js Streams for Efficient Data Processing At Scale](https://phillcode.hashnode.dev/nodejs-stream)
 - [Advanced Node.js Hacks: Boost Your Development Skillset](https://phillcode.hashnode.dev/advanced-nodejs)
 - [Mastering JavaScript unit tests with the RPG Combat Kata - Iteration Three](https://phillcode.hashnode.dev/javascript-unit-tests)
-- [Advancing with Iteration Two: Test-Driven Development in JavaScript](https://phillcode.hashnode.dev/tdd-javascript)
 <!-- BLOG-POST-LIST:END -->
